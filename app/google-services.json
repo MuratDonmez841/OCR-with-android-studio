@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "673136292186",
+    "project_id": "ocr-project-birtanseyit",
+    "storage_bucket": "ocr-project-birtanseyit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673136292186:android:309868bea29280ff03c363",
+        "android_client_info": {
+          "package_name": "com.birkanyosma.orc2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673136292186-tscjgfae98o059p0vi9rkgd3galnmhfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRsfAtK1rwpPeTeYR2ZrYtMIM4fa819Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673136292186-tscjgfae98o059p0vi9rkgd3galnmhfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673136292186:android:5c05bffd72331f0003c363",
+        "android_client_info": {
+          "package_name": "com.birtanseyit.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673136292186-tscjgfae98o059p0vi9rkgd3galnmhfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRsfAtK1rwpPeTeYR2ZrYtMIM4fa819Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673136292186-tscjgfae98o059p0vi9rkgd3galnmhfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
